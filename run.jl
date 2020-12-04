@@ -1175,5 +1175,3 @@ end
 # println(logpcauchyreppartial(ix,view(W,ix),diff1reparg,cache,current) -logpcauchyreppartial(ix,view(W2,ix),diff1reparg,cache,current))
 
 
-#TODO: ARMS?
-# Muistutus:  SFHMC kaikkoi kompnentit, PE-hmC ja RAm vain osa. NUTS kaikki. 
